@@ -1,4 +1,4 @@
-# Concur vs code README
+# Concur vscode README
 
 This is the vscode extension for intergration with concur
 
